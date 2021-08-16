@@ -5,13 +5,14 @@
 </div>
   
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="edu-gif" src="https://media.discordapp.net/attachments/745434916107321374/876788407232241664/5jr0je.gif">
 
   ##
 - 🌱 Atualmente estudando Python
 ##
   <div>
       <a href="https://instagram.com/edu.nando" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+    
  <a>
    <a href = "mailto:edu.dev@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      
