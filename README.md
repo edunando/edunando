@@ -8,7 +8,7 @@
   <img align="right" alt="edu-gif" src="https://media.discordapp.net/attachments/745434916107321374/876788407232241664/5jr0je.gif">
 
   ##
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando Programação de Scripts
 ##
   <div>
       <a href="https://instagram.com/edu.nando" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
