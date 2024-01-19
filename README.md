@@ -4,7 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edunando&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="edu-gif" src="https://media.discordapp.net/attachments/745434916107321374/876788407232241664/5jr0je.gif">
 
   ##
